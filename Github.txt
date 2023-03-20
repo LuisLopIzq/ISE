@@ -1,0 +1,29 @@
+1) git init
+2) git add
+3) git commit -m "Descripcion"
+   La primera vez da un error introducir git 
+   config --global user.username"nombre" 
+   config --global user.email"nombre@gmail.com"
+
+
+
+
+git status -s archivos y directorios en la carpeta del proyecto
+Informa si no se le esta haciendo seguimineto o si esta en el area de ensayo
+?? -> Git no esta haciendo seguimiento de los archivos
+M -> se le esta haciendo segumiento pero hay cosas no guardadas
+
+Si ya se ha hecho el commit el archivo ya no sale en status
+
+Al hacer un cambio hay que hacer add y si se quiere guardar commit
+
+git log --oneline -> informa de las versiones
+
+git reset --hard codigo -> codigo a la que se quiere volver
+
+git add . -> seguimiento a todos los archivos
+
+git commit -am "Descripcio" -> se hace el commit y el add a la vez
+
+git commint --amend -> editar algun error
+

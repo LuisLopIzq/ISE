@@ -27,3 +27,5 @@ git commit -am "Descripcio" -> se hace el commit y el add a la vez
 
 git commint --amend -> editar algun error
 
+cambiodddddddddddd
+
